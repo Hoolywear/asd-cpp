@@ -1,7 +1,9 @@
 # asd-cpp
 
-## What is this all about
+> The repository is now archived.
 
-This repo simply contains the implementation, written in C++, of various algorithms and data structures discussed during the *Algorithms and Data Structures* class from the Computer Science course held at the University of Modena and Reggio Emilia (Unimore). It will be mostly used for consultation and to practice the use of version control systems.
+## Algorithms and Data Structures in C++
 
-All the code you'll find in the repo *should* be correct (as it's moderately tested and based on a university program), if you find any errors please contact me in some way so I can fix it✨
+This repository contains a C++ implementation of various algorithms and data structures discussed during the *Algorithms and Data Structures* class from the Computer Science course, held at the University of Modena and Reggio Emilia (Unimore) by professor Manuela Montangero. It will be mostly used for consultation and to practice the use of version control systems.
+
+All the code you'll find in the repo *should* be correct (as it's moderately tested and based on a university program), still can't guarantee 100%.
